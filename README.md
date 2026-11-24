@@ -546,4 +546,4 @@ unifmem2:
 
 
 ## RESULT:
-Thus the program has been executed by using unified memory. It is observed that removing memset function has given less time.
+Thus the program has been executed by using unified memory. It is observed that removing the memset function has given less GPU execution time (0.046085 seconds) compared to using the memset function (0.055875 seconds).
