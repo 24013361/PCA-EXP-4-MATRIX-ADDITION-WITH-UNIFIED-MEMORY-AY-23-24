@@ -531,11 +531,17 @@ int main(int argc, char **argv)
 
 ## OUTPUT:
 unifmem1:
+
 <img width="842" height="585" alt="image" src="https://github.com/user-attachments/assets/b046ce6d-0899-4a25-9d02-a7e035a19f04" />
+
 <img width="1037" height="552" alt="image" src="https://github.com/user-attachments/assets/d91c89b9-0b32-422f-8e5c-26d51ee94468" />
+
 unifmem2:
+
 <img width="1026" height="662" alt="image" src="https://github.com/user-attachments/assets/53f5a880-c27a-4504-b82f-7f5584a906c9" />
+
 <img width="1111" height="582" alt="image" src="https://github.com/user-attachments/assets/13efa1a7-c486-439d-84e9-9e1360a8c022" />
+
 
 
 
